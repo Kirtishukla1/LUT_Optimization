@@ -1,6 +1,6 @@
 # LUT_Optimization
 Look-Up Table (LUT) Optimization for Memory-Based Computation using Vitis HLS
-# 🔧 LUT Optimization for Memory-Based Computation
+# LUT Optimization for Memory-Based Computation
 
 This project explores the use of Look-Up Tables (LUTs) to accelerate arithmetic computations (like squaring a number) using Vitis HLS, with hardware optimization directives to reduce latency and resource usage.
 
