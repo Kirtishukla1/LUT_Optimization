@@ -61,7 +61,5 @@ LUT_Optimization/
 - **Throughput:** 1 result per cycle
 - **BRAM usage:** Efficient due to LUT usage
 
-## 🧾 Results
-
-![Optimization Report](results/results.png)
-
+## Results
+Added and named as results.png
